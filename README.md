@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# Seattle Traffic Accident Severity Prediction
